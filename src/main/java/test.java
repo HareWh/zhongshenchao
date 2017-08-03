@@ -9,6 +9,7 @@ public class test {
         System.out.println("hello world");
         System.out.println("你好世界!");
         System.out.println("你好,哥!");
+        System.out.println("钟慎超");
 
     }
 }
