@@ -8,5 +8,7 @@ public class test {
     public void sayhello() {
         System.out.println("hello world");
         System.out.println("你好世界!");
+        System.out.println("你好,哥!");
+
     }
 }
