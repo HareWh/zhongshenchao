@@ -8,8 +8,8 @@ public class test {
     public void sayhello() {
         System.out.println("hello world");
         System.out.println("你好世界!");
-        System.out.println("你好,哥!");
-        System.out.println("钟慎超");
+        System.out.println("你好,小哥!");
+        System.out.println("钟超");
 
     }
 }
